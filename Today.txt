@@ -1,0 +1,3 @@
+Type		price
+cappuccino	300
+latte		250
